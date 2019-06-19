@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Woodville Pub Awarded Michelin Star
-subtitle: And noone knows why!?
+subtitle: And no one knows why!?
 tags: [woodville, pub, michelin star, cathays, food]
 comments: true
 image: /img/woody.jpg
