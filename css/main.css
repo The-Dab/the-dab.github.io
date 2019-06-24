@@ -361,19 +361,21 @@ footer .theme-by {
   width: 100%;
 }
 .post-image {
-  float: right;
+  /* float: right;
   height: 192px;
-  width: 192px;
-  margin-top: -35px;
-  filter: grayscale(90%);
+  width: 192px; */
+  margin: 2rem auto;
+  width: 75%;
+  height: auto;
+  /* filter: grayscale(90%); */
 }
 .post-image:hover {
-  filter: grayscale(0%);
+  /* filter: grayscale(0%); */
 }
 .post-image img {
-  border-radius: 100px;
-  height: 192px;
-  width: 192px;
+  /* border-radius: 100px; */
+  /* height: 192px;
+  width: 192px; */
 }
 .post-preview .post-read-more {
   font-weight: 800;
