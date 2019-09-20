@@ -17,7 +17,7 @@ The china rose is a good go to. Its traditional meaning is that of being always 
 
 But what about if they're not beautiful no matter what but you still want to seem nice? That's where the clematis comes into play.
 ![Clematis](/img/flower2.png)
-This is a flower that represents inner beauty and intelligence (two attributes that are known how well they come across in a club). 
+This is a flower that represents inner beauty and intelligence (two attributes that are known for how well they come across in a club). 
 
 The Honey Flower is a flower of secret and forbidden love.
 ![Honey Flower](/img/flower3.png)
