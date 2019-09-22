@@ -17,7 +17,7 @@ baseurl: ""
 title: The Dab
 
 # Short description of your site
-description: Dabbing on my haters
+description: Forget the Tab, read the Dab.
 
 # --- Navigation bar options --- #
 
@@ -73,7 +73,7 @@ author:
 social-network-links:
   rss: true
   # email: "someone@example.com"
-  facebook: thedab
+  facebook: thedabonline
   # github: daattali
   # twitter: daattali
 #  reddit: yourname
